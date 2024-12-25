@@ -59,10 +59,3 @@ root
 - Enhance the user interface of the web application.
 - Deploy the application on a public server for broader access.
 
-## License
-This project is licensed under [Your License].
-
----
-
-Feel free to reach out for collaboration or queries!
-
